@@ -1,0 +1,28 @@
+{
+    "books": [
+    {
+        "id": "1",
+        "name": "A song of ice and fire",
+        "author": "George RR Martin"
+    },
+    {
+        "id": "2",
+        "name": "Harry Potter",
+        "author": "JK Rowling"
+    },
+    {
+        "id": "3",
+        "name": "Anna Karenina",
+        "author": "Leo Tolstoy"
+    },
+    {
+        "id": "4",
+        "name": "Great Expectations",
+        "author": "Charles Dickens"
+    },
+    {
+        "id": "5",
+        "name": "Middlemarch",
+        "author": "George Eliot"
+    }]
+}
